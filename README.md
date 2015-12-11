@@ -1,4 +1,4 @@
-# 百度访问
+# 百度吧务操作
 
 ## 示例
 BaiduUtils baidu=new BaiduUtils("用户名","密码"); //创建BaiduUtils对象，目前对中文用户名支持不是很好
